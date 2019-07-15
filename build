@@ -2,4 +2,4 @@
 
 npm run build
 
-scp -r -P 2298 dist/ andrey@77.244.214.191:/var/www/crmav100/base/sys/web/
+scp -r -P 2298 dist/ xxxxxxxx@xxxxxxx:/var/www/crmav100/base/sys/web/
